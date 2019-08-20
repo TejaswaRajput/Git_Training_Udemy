@@ -1,3 +1,3 @@
 # Git_Training_Udemy
 
-It's made just as a part of self training purpose
+It's made just as a part of self training through udemy
